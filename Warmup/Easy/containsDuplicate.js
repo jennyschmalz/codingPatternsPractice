@@ -23,6 +23,9 @@
 
 class Solution {
   // my solution
+  // Time complexity: O(n)
+  // Space complexity: O(n)
+
   // containsDuplicate(nums) {
     
   //   // declare map
@@ -43,6 +46,8 @@ class Solution {
   // }
 
   // answer solution
+  // Time complexity: O(n)
+  // Space complexity: O(n)
   containsDuplicate(nums) {
     // declare new set (sets store unique values)
     const arrSet = new Set();
